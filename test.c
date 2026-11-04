@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Hello RB22!");
+    printf("Hello RB22!\n");
 }
